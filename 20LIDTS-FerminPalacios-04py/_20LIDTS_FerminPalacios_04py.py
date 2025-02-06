@@ -12,6 +12,6 @@ for f in range(maxf):
 print("impresion de valores almacenados")
 for f in range(maxf):
     for c in range(maxc):
-        print(str(a[f][c]), end=" ")
+        print(str(a[f][c]) +" ")
     print()
 
