@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35706.149
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "20LIDTS-FerminPalacios-04py", "20LIDTS-FerminPalacios-04py\20LIDTS-FerminPalacios-04py.pyproj", "{9428A1E8-5E9E-4C14-97CF-C2A5402FF1E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9428A1E8-5E9E-4C14-97CF-C2A5402FF1E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9428A1E8-5E9E-4C14-97CF-C2A5402FF1E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECB7175B-9B9E-4D5B-9E1D-7C2E8AE01BB9}
+	EndGlobalSection
+EndGlobal
